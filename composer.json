@@ -2,7 +2,7 @@
     "name": "bhuvaneshkumar_s/testpackage_bhuvan",
     "description": "test desc",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": "^5.3.3 || ^7.0"
      
     }
 }
